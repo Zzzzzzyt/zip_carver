@@ -1,0 +1,4 @@
+/target/
+*.tsv
+*.txt
+*.csv
